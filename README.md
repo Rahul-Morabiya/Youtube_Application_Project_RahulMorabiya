@@ -12,7 +12,7 @@ In this project, I developed a YouTube application utilizing the RapidAPI client
 
 ![Video Playback Page](https://github.com/Rahul-Morabiya/Projects_RahulMorabiya/assets/132494312/dc7593b9-8ab8-4364-abfc-f37ce70b999a)
 
-#Features
+# Features
 1) Home Page: A user-friendly interface offering a glimpse of the app's functionalities.
 
 2) Video Playback Page: An easy to use and friendly interface playing the selected video on the device along with the related videos displayed for the user to select next video to watch.
@@ -25,7 +25,7 @@ In this project, I developed a YouTube application utilizing the RapidAPI client
 
 6) Completely Responsive site: The application is completely responsive on all device widths.
 
-#Learning Highlights
+# Learning Highlights
 Throughout this project, I gained valuable insights and expertise in the following areas:
 
 1) React Functional Components: Leveraging their reusability and modularity.
